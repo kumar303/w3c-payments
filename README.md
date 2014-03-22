@@ -1,5 +1,5 @@
 This is the source for some slides I presented
-for the [W3C Payments Workshop](http://www.w3.org/2013/10/payments/Overview.html) in 2014.
+at the [W3C Payments Workshop](http://www.w3.org/2013/10/payments/Overview.html) in 2014.
 
 You can view them on [Github Pages](http://kumar303.github.io/w3c-payments/).
 
