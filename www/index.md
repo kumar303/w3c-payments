@@ -34,10 +34,10 @@ It works!
 * I don't care how
 * expires in 5 minutes
 
-# Secure payment token
+# Out of scope
 
-* merchant <-> processor
 * customer <-> processor
+* merchant <-> processor
 
 # Token examples
 
