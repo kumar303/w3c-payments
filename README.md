@@ -3,7 +3,7 @@ at the [W3C Payments Workshop](http://www.w3.org/2013/10/payments/Overview.html)
 
 You can view them on [Github Pages](http://kumar303.github.io/w3c-payments/).
 
-The paper we submitted is available [here](http://www.w3.org/2013/10/payments/agenda.html).
+The paper we submitted is available [here](http://www.w3.org/2013/10/payments/papers/webpayments2014_submission_13.pdf).
 
 # Hacking
 
