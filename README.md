@@ -7,6 +7,8 @@ The paper we submitted is available [here](http://www.w3.org/2013/10/payments/pa
 
 # Hacking
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kumar303/w3c-payments.svg)](https://greenkeeper.io/)
+
 To build the slides, create a virtualenv and install some dependencies:
 
     pip install -r requirements.txt
